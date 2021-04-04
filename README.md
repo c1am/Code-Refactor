@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor Homework
 
-Deployment link to website: https://c1am.github.io/code-refactor/
+Deployment link to website: https://c1am.github.io/Code-Refactor/
 
 # Purpose of the Assignment
 ```
